@@ -13,7 +13,8 @@
     },
     "categories": {
       "auth": {
-        "amplifyappfc085656": {}
+        "amplifyappfc085656": {},
+        "amplifyapp": {}
       }
     }
   }
